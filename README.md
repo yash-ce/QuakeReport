@@ -50,3 +50,18 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+# Final images of the app
+
+
+![Quake](https://user-images.githubusercontent.com/66213227/122637213-0396ec00-d10b-11eb-987d-388cd789ab95.jpeg)
+
+
+
+# After touching the respective Quake 
+
+
+
+![Soonami2](https://user-images.githubusercontent.com/66213227/122637238-26290500-d10b-11eb-9b16-fc5f30cc480c.jpeg)
+
